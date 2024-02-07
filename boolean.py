@@ -1,0 +1,7 @@
+X=bool(123)
+Y=bool(0)
+print(X)
+print(Y)
+print(X and Y)
+print(X and 100)
+print(X or 100)
