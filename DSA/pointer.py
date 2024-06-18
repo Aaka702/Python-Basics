@@ -1,2 +1,4 @@
 a= 55
-print(int(a))
+b=str(a)
+print(id(a))
+print(id(b))
